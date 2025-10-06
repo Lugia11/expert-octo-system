@@ -3,7 +3,6 @@ let person{
   lastName = "Gunnarsson"
   age = "14"
 };
-console.log(person.firstName)
-console.log(person.lastName)
-console.log(person.age)
-alert(person)
+return(person.firstName);
+return(person.lastName);
+return(person.age);
