@@ -3,6 +3,6 @@ let person{
   lastName = "Gunnarsson"
   age = "14"
 };
-return(person.firstName);
-return(person.lastName);
-return(person.age);
+print(person.firstName);
+print(person.lastName);
+print(person.age);
